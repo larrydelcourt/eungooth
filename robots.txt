@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neerenaevo.ballance.school.nz/sitemap.xml
